@@ -39,6 +39,8 @@ description: "The Pencil of Nature, published in six installments between 1844 a
   \ Talbot planned a large number of installments; however, the book was not a commercial\
   \ success and he was forced to terminate the project after completing only six.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33447#The-Pencil-of-Nature
 gutenberg_bookshelf: Photography
 gutenberg_issued: '2010-08-16'
 gutenberg_type: Text
