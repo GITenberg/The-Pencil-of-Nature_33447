@@ -1,0 +1,67 @@
+_repo: The-Pencil-of-Nature_33447
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Talbot, William Henry Fox
+    aliases:
+    - Talbot, Fox
+    - Fox Talbot, William Henry
+    - Talbot, Henry Fox
+    - Talbot, H. Fox (Henry Fox)
+    birthdate: 1800
+    deathdate: 1877
+    gutenberg_agent_id: '36415'
+    url: http://www.gutenberg.org/2009/agents/36415
+    wikipedia: http://en.wikipedia.org/wiki/William_Fox_Talbot
+description: "The Pencil of Nature, published in six installments between 1844 and\
+  \ 1846, was the \"first photographically illustrated book to be commercially published\"\
+  \ or \"the first commercially published book illustrated with photographs\". It\
+  \ was wholly executed by the new art of Photogenic Drawing, without any aid whatever\
+  \ from the artist's pencil and regarded as an important and influential work in\
+  \ the history of photography. Written by William Henry Fox Talbot and published\
+  \ by Longman, Brown, Green & Longmans in London, the book detailed Talbot's development\
+  \ of the calotype process and included 24 calotype prints, each one pasted in by\
+  \ hand, illustrating some of the possible applications of the new technology. Since\
+  \ photography was still very much a novelty and many people remained unfamiliar\
+  \ with the concept, Talbot felt compelled to insert the following notice into his\
+  \ book:\n\nThe plates of the present work are impressed by the agency of Light alone,\
+  \ without any aid whatever from the artist's pencil. They are the sun-pictures themselves,\
+  \ and not, as some persons have imagined, engravings in imitation.\n\nThe cover\
+  \ page for The Pencil of Nature clashed designs, which was characteristic of the\
+  \ Victorian era, with styles inspired by baroque, Celtic, and medieval elements.\
+  \ Its symmetrical design, letterforms, and intricate carpet pages are similar to\
+  \ and a pastiche of the Book of Kells.\nThe Pencil of Nature was published and sold\
+  \ one section at a time, without any binding (as with many books of the time, purchasers\
+  \ were expected to have it bound themselves once all the installments had been released).\
+  \ Talbot planned a large number of installments; however, the book was not a commercial\
+  \ success and he was forced to terminate the project after completing only six.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Photography
+gutenberg_issued: '2010-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33447'
+  wikidata: Q472085
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TR'
+- !lcsh 'Photography -- Early works to 1850'
+title: The Pencil of Nature
+url: http://www.gutenberg.org/ebooks/33447
+wikipedia:
+- https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E3%81%AE%E9%89%9B%E7%AD%86
+- https://pt.wikipedia.org/wiki/The_Pencil_of_Nature
+- https://it.wikipedia.org/wiki/The_Pencil_of_Nature
+- https://cs.wikipedia.org/wiki/Tu%C5%BEka_p%C5%99%C3%ADrody
+- https://es.wikipedia.org/wiki/El_l%C3%A1piz_de_la_naturaleza
+- https://hu.wikipedia.org/wiki/A_term%C3%A9szet_ir%C3%B3nja
+- https://en.wikipedia.org/wiki/The_Pencil_of_Nature
+- https://commons.wikimedia.org/wiki/The_Pencil_of_Nature
+- https://ca.wikipedia.org/wiki/The_pencil_of_nature
+- https://he.wikipedia.org/wiki/%D7%A2%D7%A4%D7%A8%D7%95%D7%9F_%D7%94%D7%98%D7%91%D7%A2
